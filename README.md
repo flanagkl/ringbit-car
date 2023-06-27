@@ -47,3 +47,7 @@ The [follow_the_light.py](https://github.com/flanagkl/ringbit-car/blob/main/foll
 The [obstacle_avoidance.py](https://github.com/flanagkl/ringbit-car/blob/main/obstacle_avoidance.py) program will instruct the Ring:bit car to automatically detect and move to avoid obstacles using its ultrasonic sonar sensor. The Ring:bit car will start moving and automatically perform obstacle avoidance when the A button is physcially pressed on the front of the Micro:bit controller.
 
 ![Obstacle Detection and Avoidance](static/assets/images/example-4-in-action.webp "Obstacle Detection and Avoidance")
+
+## Author
+
+This open-source library was created, and is maintained, by [Kendall Flanagan](https://www.linkedin.com/in/kendall-flanagan/) - Product Manager and Certified Software Engineer.
