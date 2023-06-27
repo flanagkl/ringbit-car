@@ -1,4 +1,4 @@
-""" Obstacle Avoidance (obstacle detection).
+""" Obstacle Detection and Avoidance.
 
 This program will instruct the Ring:bit car to automatically detect and move to
 avoid obstacles using its ultrasonic sonar sensor. The Ring:bit car will start
