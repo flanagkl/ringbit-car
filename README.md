@@ -50,4 +50,4 @@ The [obstacle_avoidance.py](https://github.com/flanagkl/ringbit-car/blob/main/ob
 
 ## Author
 
-This open-source library was created, and is maintained, by [Kendall Flanagan](https://www.linkedin.com/in/kendall-flanagan/) - Product Manager and Certified Software Engineer.
+This open-source library was created, and is maintained, by [Kendall Flanagan](https://www.linkedin.com/in/kendall-flanagan/) (Product Manager and Certified Software Engineer).
