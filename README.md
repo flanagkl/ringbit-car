@@ -48,6 +48,6 @@ The [obstacle_avoidance.py](https://github.com/flanagkl/ringbit-car/blob/main/ob
 
 ![Obstacle Detection and Avoidance](static/assets/images/example-4-in-action.webp "Obstacle Detection and Avoidance")
 
-## Author
+## Credits
 
 This open-source library was created, and is maintained, by [Kendall Flanagan](https://www.linkedin.com/in/kendall-flanagan/) (Product Manager and Certified Software Engineer).
